@@ -9,7 +9,7 @@
 
 ### The Stack
 
-- **App:** Python (Flask/FastAPI) + PostgreSQL.
+- **App:** Python (Flask/FastAPI) 
 - **Infrastructure:** AWS (EKS, VPC, Multi-AZ, ASG) via **Terraform**.
 - **CI/CD:** GitHub Actions (Pushing directly to EKS).
 - **Observability:** Prometheus, Grafana, and CloudWatch Logs.
